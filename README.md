@@ -70,6 +70,7 @@ In order to utilise the full integration between ERPNext and Frepple, you will n
     - [Autocount](https://github.com/msf4-0/ERPNext-Autocount-Integration)
     - [SQL Account](https://github.com/msf4-0/ERPNext-SQL-Accounting-Integration)
     - [Short Courses](https://github.com/Shakila-Sahira/ERPNext-Short-Courses)
+    - [Hospitality](https://github.com/hisham733/hospitality)
 
 3. For Windows & MacOS user, start from `Section 3`.
 4. For Ubuntu user, start from `Section 4`.
@@ -103,10 +104,10 @@ In order to utilise the full integration between ERPNext and Frepple, you will n
 ### 5. Setup
 
 1. Clone this repo.
-    - `git clone https://github.com/msf4-0/IRPS-Short_Courses-SQL_Accounting-Autocount-frepple`
+    - `git clone https://github.com/hisham733/ERPNext-Hospitality`
 
 2. Navigate to the cloned folder.
-    - `cd IRPS-SQL_Accounting-Autocount-frepple`
+    - `cd ERPNext-Hospitality`
 
 3. In `enx-example`, you can change the variables that would be used in this installation process to your preference such as the following:
     - Server port to host ERPNext,`ERPNEXT_SERVER_PORT`. Default is `8000`.
